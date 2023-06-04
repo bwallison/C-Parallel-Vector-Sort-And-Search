@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(86): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+  Generating code
+  All 768 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tutorial 3.vcxproj -> C:\Users\Computing\Downloads\CMP3110M_14468387\x64\Release\CMP3110M_14468387.exe
+  Tutorial 3.vcxproj -> C:\Users\Computing\Downloads\CMP3110M_14468387\x64\Release\CMP3110M_14468387.pdb (Full PDB)
+  kernels.cl
+          1 file(s) copied.

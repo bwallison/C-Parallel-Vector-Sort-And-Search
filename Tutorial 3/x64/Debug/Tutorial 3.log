@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Tutorial 3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+main.cpp(86): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+  Tutorial 3.vcxproj -> C:\Users\Computing\Downloads\CMP3110M_14468387\x64\Debug\CMP3110M_14468387.exe
+  Tutorial 3.vcxproj -> C:\Users\Computing\Downloads\CMP3110M_14468387\x64\Debug\CMP3110M_14468387.pdb (Full PDB)
+  kernels.cl
+          1 file(s) copied.
